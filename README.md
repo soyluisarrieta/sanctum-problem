@@ -47,5 +47,7 @@ public function callback($provider) // <-- provider="google"
 ```
 
 ## Captura del proceso completo
+![image](https://github.com/soyluisarrieta/sanctum-problem/assets/88900534/5411caee-4add-4eb3-9ad4-47f26c926d21)
+
 
 ⚠ Importante: Si va a clonar el repositorio para probarlo, recuerde añadir el dominio "test.com" en su archivo de hosts y además generar las claves de ID Cliente y Clave Privada de Google y configurarñas en el .env (La intención de este repositorio es mostrar el código completo.)
