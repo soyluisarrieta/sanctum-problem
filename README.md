@@ -8,8 +8,6 @@ Mi app es una SPA hecha en React separada del backend (API). En cuanto a la api,
 
 No logro hallar la forma de autenticar mi SPA ya que el proceso de login se hace en la url de la API (`test.com:8000/login/google/callback`)
 
-:thread: Abro Hilo para añadir código relevante
-
 ## Código relevante
 
 - Botón en mi SPA para iniciar proceso SSO:
